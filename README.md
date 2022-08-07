@@ -6,5 +6,3 @@
 - 📫 Связаться со мной в Telegram - [ссылка](https://t.me/ex0d2s)
 
 ![Profile views](https://gpvc.arturio.dev/3x0d2s)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3x0d2s)](https://github.com/anuraghazra/github-readme-stats)
