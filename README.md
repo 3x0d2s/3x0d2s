@@ -4,5 +4,3 @@
 - 👨‍💻 Разрабатываю проекты на заказ.
 - 📡 Telegram-канал c примерами моих работ - [ссылка](https://t.me/ex0d2s_projects)
 - 📫 Связаться со мной в Telegram - [ссылка](https://t.me/ex0d2s)
-
-![Profile views](https://gpvc.arturio.dev/3x0d2s)
